@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.venv/
+*.exe
+*.dll
+*.zip
+publish/
